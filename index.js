@@ -17,7 +17,7 @@ function johnLennonFacts(facts) {
 
 function iLoveTheBeatles(n) {
   let fansArray = [];
-  let i = 0
+  let i = 0;
   
   if(n>15){
     fansArray = 'I love the Beatles!';
